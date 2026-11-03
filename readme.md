@@ -131,6 +131,12 @@ Free
 
 [![](screenshots/digital-electric-screensaver.png)](https://quismi.com/digital-electric)
 
+### Chronoface
+
+> Analog watch face screensaver with 16 dial themes, a luminescent night mode and live weather.
+
+[![](screenshots/chronoface.jpg)](https://chronoface.perek.rest)
+
 ## Apple Inspired
 
 ### Aerial
